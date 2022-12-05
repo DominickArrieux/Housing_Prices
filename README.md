@@ -9,6 +9,7 @@ The purpose of this shiny dashboard is to allow users to twofold, 1) to allow ne
 
 runGitHub( "Understanding-House-Prices", "DominickArrieux") https://dominickarrieux.shinyapps.io/LearningAboutHouseBuying/
 
-Brief Instructions:
+this data set comes from: https://www.kaggle.com/datasets/prevek18/ames-housing-dataset
 
+Brief Instructions:
 To use the first part of the first module select the price range and the neighborhood you would like to explore. You can then generate summary statistics to better understand what houses in this price range and neighborhood(s) are like. The second part of the first module is an interactive table. You can choose to filter 1 or as many values from any of the coloumns in the dataset and take a look at some of the houses that match your preferences. The Second module allows for you to create 5 different plots. In each plot you will select what variables you would like to visualize. In this section you will also be able to learn a bit about the neighborhoods by selecting a neighborhood and clicking the more info button. The last module allows for you to predict the price of the house. You will be able to select what inputs you would like to consider in the model and then preform a regression using those predictors.
