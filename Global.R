@@ -1,0 +1,7 @@
+if(!req('DT')) install.packages("DT")
+if(!req("tidyverse")) install.packages("tidyverse")
+if(!req("ggplot2")) install.packages("ggplot2")
+if(!req("vtable")) install.packages("vtable")
+if(!req("skimr")) install.packages("skimr")
+if(!req("modeldata")) install.packages("modeldata")
+if(!req("dashboard")) install.packages("dashboard")
